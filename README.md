@@ -17,4 +17,7 @@ body)
 
 - Run the app by the command ```npx nodemon .\calculator.js```
 
+- Then go to web and type ```localhost:3000``` for calculator
+
+- You can also type ```localhost:3000/bmicalculator``` for BMI calculator
 
